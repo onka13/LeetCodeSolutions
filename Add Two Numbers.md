@@ -2,6 +2,10 @@
 
 https://leetcode.com/problems/add-two-numbers/description/
 
+# Solution
+
+https://leetcode.com/problems/add-two-numbers/solutions/3077723/only-4-lines-of-code-high-level-solution-explained-all-coding-steps/
+
 # Approach
 This is a simple addition flow. 
 1. 2 numbers like ( 743, 564  )
