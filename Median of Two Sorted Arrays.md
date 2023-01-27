@@ -2,6 +2,10 @@
 
 https://leetcode.com/problems/median-of-two-sorted-arrays/
 
+# Solution
+
+https://leetcode.com/problems/median-of-two-sorted-arrays/solutions/3105362/the-simplest-solution-is-always-the-best-c-javascript-typescript/
+
 # Final Code - C#
 
 ```
